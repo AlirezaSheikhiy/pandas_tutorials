@@ -1,0 +1,10 @@
+jupyter
+jupyterlab
+notebook
+numpy
+pandas
+matplotlib
+scipy
+lxml
+html5lib
+beautifulsoup4
